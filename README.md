@@ -14,9 +14,14 @@ Il a été développé dans le cadre de mon apprentissage en C#.
 - **Chalumeau** 🔥 : Chat de type feu, agressif et flamboyant - il inflige des dégâts supplémentaires grâce à son élément feu.
 - **Chahuteur** 🌱 : Chat de type terre, stratège et robuste - la terre le protège ! 
 - **Chataigne** 🌿 : Chat de type plante, malin et piquant - il empoisonne ses adversaires. 
--**Chalutier** 🌊 : Chat de type eau, agile et fluide - la mer le protège. 
+- **Chalutier** 🌊 : Chat de type eau, agile et fluide - la mer le protège. 
 
 ## ✨ Améliorations à venir
 - Ajout d'un système de points d'actions (coucou Dofus !)
 - Implémentation du mode Tournoi 
 - Menu défilant de présentation des classes
+
+## ✨ Pour jouer 
+- Clônez le projet, ouvrez le fichier .sln dans Visual Studio et lancez le débogage
+
+# A bientôt ! 
